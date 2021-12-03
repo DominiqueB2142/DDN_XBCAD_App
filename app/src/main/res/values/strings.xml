@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">DDN_XBCAD_App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">AFM Central Tabernacle</string>
+    <string name="nav_header_subtitle">Pentecostal Church</string>
+    <string name="nav_header_desc">Navigation header text</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_history">History</string>
+    <string name="menu_donate">Donate</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_contactus">Contact Us</string>
+    <string name="menu_signin">Sign In</string>
+
+    <!--temp placeholders for final content strings-->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content">All Fragment Content Goes Here :)</string>
+
+    <!--final content strings-->
+    <!--Home-->
+    <string name="str_home">Home</string>
+
+    <string name="str_h0me">
+        AFM (Apostolic Faith Missions) Central Tabernacle is a church that follows pentecostal values.
+        The head pastor of the church is pastor Harry Solomon who has been gifted the blessing of being a powerful preacher and leader of the church.
+        He has studied and continues to study the word of God thoroughly and has a doctorate in theology.
+    </string>
+
+    <string name="str_h0me2">
+        The church service schedule is as follows:
+
+    </string>
+
+    <string name="str_h0me3">
+        Wednesday -  PRAYER MEETING - 7:00 PM
+    </string>
+
+    <string name="str_h0me4">
+        Sunday -  WORSHIP SERVICE - 8 AM
+    </string>
+
+    <!--History-->
+    <string name="str_history">History of AFM Tabernacle Central</string>
+    <string name="str_h1of4">
+    In 1930, more than 20 years after the A.F.M of South Africa, which was founded in Johannesburg, that
+        the gospel of Christ reached Stanger through believers who relocated to Stanger (now Kwadukuza).
+        One of the believers, sister J Budge is assumed to have lost a five-pound note which was worth a lot in 1930. She promised
+        the Lord that is the money was to be recovered, she would pay for the expenses for the holding of a gospel
+        campaign amongst the town.
+    </string>
+    <string name="str_h2of4">
+    By faith, the money was found, and she kept her promise, the meeting had been arranged
+        in a local Hindu hall, with Pastors Moody Wright and C.S Flewelling. the gospel
+        was heard among the people and some converted. One of which as David F Williams who became
+        a full-time worker and remain active in the Stanger Assembly until his retirement.
+    </string>
+    <string name="str_h3of4">
+    On the 16th of November 1930, 21 converts were baptised, on the 5th of October 1931, 88 were baptised.
+        A month later, 1 November 1931, 20 more were added to the church. Meanwhile, services continued
+        to be held at the Hindu hall, by Pastor C S Flewelling until 1933, when they moved to the
+        P.W.D Hall. Building of the Stanger Church began in 1935 and on 20th of June 1937, it was officially opened.
+    </string>
+    <string name="str_h4of4">
+    The original A.F.M Central Tabernacle Stanger building was opened in 1937,
+        today, it is a modern and spacious church which is able to accommodate 850 people.
+        The new church building was opened in December of 1986, at a cost of more than
+        R180 000 and today is filled by a large congregation.
+    </string>
+
+    <!--Gallery-->
+    <string name="str_gallery">Gallery</string>
+    <string name="str_logout">Log Out</string>
+
+    <!--ContactUs-->
+    <string name="str_contactus">Get In Touch With Us</string>
+    <string name="str_address1">
+        Address: 17 Greyridge Drive, Kwadukuza 4450
+    </string>
+    <string name="str_contact1">
+        Pastor Harry Solomon
+    </string>
+    <string name="str_contact2">
+        TEL: 032 551 5417
+    </string>
+
+    <!--SignIn-->
+    <string name="str_signin">Sign In</string>
+
+</resources>

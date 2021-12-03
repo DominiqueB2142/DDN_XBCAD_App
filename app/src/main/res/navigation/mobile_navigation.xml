@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.ddn_xbcad_app.Home"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_nav_history"
+            app:destination="@id/nav_history" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_history"
+        android:name="com.example.ddn_xbcad_app.History"
+        android:label="@string/menu_history"
+        tools:layout="@layout/fragment_history">
+        <action
+            android:id="@+id/action_nav_history_to_contact"
+            app:destination="@+id/nav_contact"
+        />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_contact"
+        android:name="com.example.ddn_xbcad_app.ContactUs"
+        android:label="@string/menu_contactus"
+        tools:layout="@layout/fragment_contact_us" >
+        <action
+            android:id="@+id/action_nav_contact_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+
+
+    <activity
+        android:id="@+id/nav_Login"
+        android:name="com.example.ddn_xbcad_app.Login"
+        android:label="SignIn"
+        tools:layout="@layout/activity_login">
+    </activity>
+
+
+</navigation>

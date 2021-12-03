@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "351571683756",
+    "project_id": "afm-central-tabernacle",
+    "storage_bucket": "afm-central-tabernacle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351571683756:android:b8a7a77c3dbbf622e0f209",
+        "android_client_info": {
+          "package_name": "com.example.ddn_xbcad_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351571683756-ukdrdlpihdk31snkbm9q86novt32gjp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ddn_xbcad_app",
+            "certificate_hash": "4d57f7a161b799d41a57b88b61d685161c10ecaa"
+          }
+        },
+        {
+          "client_id": "351571683756-gfmd8hdopie6n8c57ckcth2t381ra84i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUPEOe9THOXEDt4fp4e0kDck9Q6j0g21E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351571683756-gfmd8hdopie6n8c57ckcth2t381ra84i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
